@@ -28,8 +28,6 @@ import { ContactSectionComponent } from "../../shared/components/contact/contact
     <app-menu-grid></app-menu-grid>
     <app-best-sellers></app-best-sellers>
     <app-story-section></app-story-section>
-    <app-ordering-section></app-ordering-section>
-    <app-erp-showcase></app-erp-showcase>
     <app-franchise-section></app-franchise-section>
     <app-testimonials-section></app-testimonials-section>
     <app-contact-section></app-contact-section>
