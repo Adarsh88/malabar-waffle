@@ -29,6 +29,7 @@
     "@angular/build": "^20.0.0",
     "@angular/cli": "^20.0.0",
     "@angular/compiler-cli": "^20.0.0",
+    "@netlify/angular-runtime": "^4.0.0",
     "@types/express": "^5.0.6",
     "@types/node": "^20.17.0",
     "typescript": "^5.8.2"
